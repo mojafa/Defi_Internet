@@ -48,7 +48,7 @@ This project was created in order to support a new internet. One that is more op
 ##### Sketch Plugin: `wget https://git.io/Jv2pk`
 
 ###### Latest Git Release Package [here](https://github.com/Lonero-Team/Decentralized-Internet/releases/tag/v3.6.9)  
-[![GitPod](https://jaywcjlove.github.io/sb/open/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Lonero-Team/Decentralized-Internet)  
+[![GitPod](https://jaywcjlove.github.io/sb/open/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Lonero-Team/Decentralized-Internet)   [![Open in Codeanywhere](https://img.shields.io/badge/Open%20in-Codeanywhere-blue?style=for-the-badge&logo=codeanywhere)](https://app.codeanywhere.com/#https://github.com/Lonero-Team/Decentralized-Internet)
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLonero-Team%2FDecentralized-Internet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLonero-Team%2FDecentralized-Internet?ref=badge_large)
